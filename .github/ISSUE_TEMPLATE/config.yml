@@ -1,7 +1,7 @@
 blank_issues_enabled: true
 contact_links:
   - name: "📖 Hướng dẫn sử dụng / User guide"
-    url: "https://latchmac.com/#/huong-dan"
+    url: "https://latchmac.com/#/guide"
     about: "Xem hướng dẫn và mục khắc phục sự cố trước khi báo lỗi / Check the guide & troubleshooting first"
   - name: "✉️ Hỗ trợ qua email / Email support"
     url: "https://latchmac.com/"
