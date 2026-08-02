@@ -1,0 +1,42 @@
+name: "🐛 Báo lỗi / Bug report"
+description: "Báo một lỗi của Latch / Report a bug in Latch"
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Cảm ơn bạn đã báo lỗi! Điền tiếng Việt hoặc tiếng Anh đều được.
+        *Thanks for the report! Vietnamese or English are both fine.*
+  - type: input
+    id: app-version
+    attributes:
+      label: "Phiên bản Latch / Latch version"
+      description: "Xem trong panel → Cài đặt / See panel → Settings"
+      placeholder: "0.1.2"
+    validations:
+      required: true
+  - type: input
+    id: macos-version
+    attributes:
+      label: "macOS"
+      placeholder: "macOS 15.5, MacBook Pro M1"
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: "Điều gì đã xảy ra? / What happened?"
+      description: "Mô tả lỗi và điều bạn kỳ vọng / Describe the bug and what you expected"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Các bước tái hiện / Steps to reproduce"
+      placeholder: |
+        1. Mở panel…
+        2. Bật…
+        3. Lỗi xuất hiện…
+    validations:
+      required: false

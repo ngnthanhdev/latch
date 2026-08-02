@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "📖 Hướng dẫn sử dụng / User guide"
+    url: "https://latchmac.com/#/huong-dan"
+    about: "Xem hướng dẫn và mục khắc phục sự cố trước khi báo lỗi / Check the guide & troubleshooting first"
+  - name: "✉️ Hỗ trợ qua email / Email support"
+    url: "https://latchmac.com/"
+    about: "Gửi email tới support@latchmac.com nếu vấn đề liên quan license/thanh toán / Email support@latchmac.com for license or billing issues"

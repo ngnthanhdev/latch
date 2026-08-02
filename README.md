@@ -43,6 +43,11 @@ Download [Latch.dmg](https://latchmac.com/download/Latch.dmg), open it and
 drag **Latch** into *Applications*. The app is Developer-ID signed and
 notarized by Apple.
 
+## Bug reports
+
+Gặp lỗi? Mở issue tại [github.com/ngnthanhdev/latch/issues](https://github.com/ngnthanhdev/latch/issues) — có sẵn mẫu báo lỗi song ngữ.
+*Found a bug? Open an issue — a bilingual bug-report template is provided. For license or billing problems, email [support@latchmac.com](mailto:support@latchmac.com).*
+
 ## Pricing
 
 Free features work forever. **Latch Pro** (closed-lid mode) is a one-time
